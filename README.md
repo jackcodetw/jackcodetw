@@ -10,6 +10,19 @@
 
 ![Tools I use](https://skillicons.dev/icons?i=neovim,vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
 
+### ⏲️ This week I spent time on...
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
 ### 🚀 Contribution
 
 <picture>
