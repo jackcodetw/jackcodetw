@@ -1,6 +1,6 @@
-### Hi I'm CofCat 👋
+### Hi I'm Jack Liao 👋
 
-A web developer based in Taiwan.
+A software engineer based in Taiwan.
 
 ## 🔭 Tech stack
 
@@ -26,21 +26,13 @@ Markdown                   1 hr 10 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-
 ### 🚀 Contribution
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CofCat456&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CofCat456&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=CofCat456&show_icons=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ### 📚 Latest Posts
 - [2024 前端工程師面試心得](https://www.cofcat.com/posts/2024-front-end-interview-experience)

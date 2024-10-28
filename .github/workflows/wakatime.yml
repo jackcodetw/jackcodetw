@@ -19,7 +19,7 @@ jobs:
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           COMMIT_MESSAGE: "chore: update wakatime"
-          COMMITTER_NAME: "CofCat456 "
+          COMMITTER_NAME: "jackcodetw "
           COMMITTER_EMAIL: "a25690756@gmail.com"
-          AUTHOR_NAME: "CofCat456"
+          AUTHOR_NAME: "jackcodetw"
           AUTHOR_EMAIL: "a25690756@gmail.com"
